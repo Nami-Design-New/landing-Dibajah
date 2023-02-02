@@ -43,7 +43,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #c0a033;
+  color: #07B1FC;
 }
 
 button:focus {
@@ -104,7 +104,7 @@ content {
 }
 
 input {
-  accent-color: #c0a033;
+  accent-color: #07B1FC;
 }
 
 .dropdown {
@@ -196,10 +196,10 @@ header .container {
 .btn {
   padding: 12px 32px;
   border: none;
-  background-color: #c0a033;
+  background-color: #07B1FC;
   color: #ffffff;
   border-radius: 8px;
-  box-shadow: 0px 6px 0px #7f650e;
+  box-shadow: 0px 6px 0px #0680b5;
   transition: all 0.3s ease-in-out;
   display: inline-flex;
   align-items: center;
@@ -239,7 +239,7 @@ header .container {
   text-align: center;
   line-height: 44px;
   font-size: 32px !important;
-  text-shadow: -2px 3px 0px #b19026;
+  text-shadow: -2px 3px 0px #0680b5;
 }
 @media (max-width: 768px) {
   .mainSection h1 {
@@ -252,7 +252,7 @@ header .container {
   bottom: -50px;
   left: 50%;
   z-index: -1;
-  background-color: rgba(192, 160, 51, 0.5647058824);
+  background-color: rgba(7, 177, 252, 0.5647058824);
   width: 95%;
   height: 200px;
   border-radius: 100%;
@@ -338,7 +338,7 @@ header .container {
 }
 
 footer {
-  background-color: rgba(192, 160, 51, 0.1254901961);
+  background-color: rgba(7, 177, 252, 0.1254901961);
   margin-top: 16px;
 }
 footer .container {
@@ -355,7 +355,7 @@ footer .container {
 }
 footer .company {
   margin: 0 5px;
-  color: #c0a033;
+  color: #07B1FC;
 }
 footer .social {
   padding: 0;
@@ -369,7 +369,7 @@ footer .social li {
   align-items: center;
   justify-content: center;
   border-radius: 100px;
-  background-color: rgba(192, 160, 51, 0.062745098);
+  background-color: rgba(7, 177, 252, 0.062745098);
   margin: 2px;
   transition: all 0.3s ease-in-out;
 }
@@ -392,10 +392,10 @@ footer .links {
   gap: 12px;
 }
 footer .links a {
-  color: #c0a033;
+  color: #434340;
 }
 footer .links a:hover {
-  color: #c0a033;
+  color: #07B1FC;
 }
 
 .title {
@@ -434,7 +434,7 @@ footer .links a:hover {
   bottom: unset;
   right: unset;
   left: unset;
-  color: #c0a033;
+  color: #07B1FC;
 }
 .swiperBtns .swiper-pagination .swiper-pagination-current {
   font-size: 30px;
@@ -458,7 +458,7 @@ footer .links a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #c0a033;
+  color: #07B1FC;
   width: auto;
   transition: all 0.3s ease-in-out;
   z-index: 1;
@@ -619,7 +619,7 @@ footer .links a:hover {
   gap: 12px;
 }
 .contactUs .contactInfo .info {
-  background-color: rgba(192, 160, 51, 0.1254901961);
+  background-color: rgba(7, 177, 252, 0.1254901961);
   padding: 20px;
   border-radius: 12px;
   position: relative;
@@ -638,7 +638,7 @@ footer .links a:hover {
   color: #777;
 }
 .contactUs .contactInfo .info a:hover {
-  color: #c0a033;
+  color: #07B1FC;
 }
 .contactUs .contactInfo .info::before {
   content: "";
@@ -692,7 +692,7 @@ textarea.inputForm {
   width: 50px;
   height: 50px;
   border-radius: 100px;
-  background-color: rgba(192, 160, 51, 0.1882352941);
+  background-color: rgba(7, 177, 252, 0.1882352941);
   display: flex;
   align-items: center;
   justify-content: center;
